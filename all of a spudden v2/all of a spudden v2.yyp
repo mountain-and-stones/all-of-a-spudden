@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0bbd45e1-4b59-4470-a1fc-d5c88f7b93a9",
+            "Value": {
+                "id": "c821736b-e487-4245-9da5-b9bd55d054b7",
+                "resourcePath": "views\\0c17b497-24de-4fd7-bce0-bc01609ad21f-room.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "0c17b497-24de-4fd7-bce0-bc01609ad21f",
             "Value": {
                 "id": "b038db37-0215-471a-9788-1930794db10d",
@@ -76,6 +84,14 @@
                 "id": "71976ce9-93af-40a2-87d0-b3b7d937955a",
                 "resourcePath": "views\\54e553eb-f5a7-4195-a5cd-d5985dac8d69.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "55ff9730-101d-411e-b5e8-7d658ecb980d",
+            "Value": {
+                "id": "172fde81-13a2-43bf-bdc4-b9fdfbe192aa",
+                "resourcePath": "sprites\\SpriteGround\\SpriteGround.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -127,6 +143,14 @@
             }
         },
         {
+            "Key": "a702e7d2-f6a0-4007-b291-e19f6aae4eab",
+            "Value": {
+                "id": "a094223f-eed0-4e8f-b927-b8ea7ea6e86a",
+                "resourcePath": "objects\\ObjectPlayer\\ObjectPlayer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ae9b0b77-3a86-4856-8a0d-fb4fde6a1b4e",
             "Value": {
                 "id": "5acc213d-057f-4f99-8402-a73b288a216b",
@@ -140,6 +164,22 @@
                 "id": "aa6d3cf8-f8cc-49e2-964e-d5e48b965590",
                 "resourcePath": "views\\bc6a7dc9-7515-4953-b636-d325dde9ebe7.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "be2d1e74-66b0-4d33-8b17-918668593995",
+            "Value": {
+                "id": "f02e700e-af52-4d49-992a-3e86c741cbbe",
+                "resourcePath": "sprites\\SpritePlayer\\SpritePlayer.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c430107d-7148-498f-85c5-ce1b5d085bad",
+            "Value": {
+                "id": "d252748a-c4a5-4cb5-b666-de47a5991fc3",
+                "resourcePath": "objects\\ObjectGround\\ObjectGround.yy",
+                "resourceType": "GMObject"
             }
         },
         {
