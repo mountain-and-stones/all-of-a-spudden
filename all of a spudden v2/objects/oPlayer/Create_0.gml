@@ -1,5 +1,6 @@
 /// @description key varibles
 
+phy_fixed_rotation = true;
 hsp = 0;
 vsp = 0;
 grv = .4;
