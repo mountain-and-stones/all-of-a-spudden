@@ -2,7 +2,7 @@
     "id": "c430107d-7148-498f-85c5-ce1b5d085bad",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "ObjectGround",
+    "name": "oGround",
     "eventList": [
         
     ],

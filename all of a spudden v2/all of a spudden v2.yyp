@@ -90,7 +90,7 @@
             "Key": "55ff9730-101d-411e-b5e8-7d658ecb980d",
             "Value": {
                 "id": "172fde81-13a2-43bf-bdc4-b9fdfbe192aa",
-                "resourcePath": "sprites\\SpriteGround\\SpriteGround.yy",
+                "resourcePath": "sprites\\sGround\\sGround.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -146,7 +146,7 @@
             "Key": "a702e7d2-f6a0-4007-b291-e19f6aae4eab",
             "Value": {
                 "id": "a094223f-eed0-4e8f-b927-b8ea7ea6e86a",
-                "resourcePath": "objects\\ObjectPlayer\\ObjectPlayer.yy",
+                "resourcePath": "objects\\oPlayer\\oPlayer.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -170,7 +170,7 @@
             "Key": "be2d1e74-66b0-4d33-8b17-918668593995",
             "Value": {
                 "id": "f02e700e-af52-4d49-992a-3e86c741cbbe",
-                "resourcePath": "sprites\\SpritePlayer\\SpritePlayer.yy",
+                "resourcePath": "sprites\\sPlayer\\sPlayer.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -178,7 +178,7 @@
             "Key": "c430107d-7148-498f-85c5-ce1b5d085bad",
             "Value": {
                 "id": "d252748a-c4a5-4cb5-b666-de47a5991fc3",
-                "resourcePath": "objects\\ObjectGround\\ObjectGround.yy",
+                "resourcePath": "objects\\oGround\\oGround.yy",
                 "resourceType": "GMObject"
             }
         },
