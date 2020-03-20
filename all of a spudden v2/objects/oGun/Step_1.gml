@@ -13,9 +13,10 @@ if (mouse_check_button(mb_left)) and (firingdelay < 0)
 firingdelay = 5;
 with(oPlayer)
 {
-direction = point_direction(x, y, mouse_x, mouse_y);
-y -= lengthdir_x(4,direction);
-x -= lengthdir_y(4,direction);
+speed = -4;
+	direction = other.image_angle; //+ random_range(-3,3)
+	image_angle = direction;
+	
 }
 with (instance_create_layer(x,y,"Bullet",oBullet))
 	{ 
@@ -24,4 +25,5 @@ with (instance_create_layer(x,y,"Bullet",oBullet))
 	image_angle = direction; 
 	}
 }
+
 
